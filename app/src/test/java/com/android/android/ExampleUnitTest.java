@@ -1,4 +1,4 @@
-package com.android.reactnatice;
+package com.android.android;
 
 import org.junit.Test;
 

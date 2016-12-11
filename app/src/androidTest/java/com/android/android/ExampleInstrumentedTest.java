@@ -1,4 +1,4 @@
-package com.android.reactnatice;
+package com.android.android;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.android.reactnatice", appContext.getPackageName());
+        assertEquals("com.android.android", appContext.getPackageName());
     }
 }
